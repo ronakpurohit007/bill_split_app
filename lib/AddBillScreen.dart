@@ -1,5 +1,5 @@
 
-// demo the git push other chnage
+// demo the git push
 
 import 'package:flutter/material.dart';
 
